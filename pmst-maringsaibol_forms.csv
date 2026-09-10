@@ -1,0 +1,197 @@
+form_id,lexeme,cell,source_form,orth_form,analysed_orth_form,phon_form,analysed_phon_form,variants_tag,analysis_tag,source,page,language_id
+maringsaibol001,no_stem,1.sg,kei,kei,kei,k ei,k ei,unspecified,,Kanshouwa2026Saibol,nopage,maringsaibol
+maringsaibol002,no_stem,1.pl.excl,keini,keini,kei+ni,k ei n i,k ei + n i,unspecified,,Kanshouwa2026Saibol,nopage,maringsaibol
+maringsaibol003,no_stem,1.pl.incl,ani,ani,a+ni,a n i,a + n i,unspecified,,Kanshouwa2026Saibol,nopage,maringsaibol
+maringsaibol004,no_stem,2.sg,nang,nang,nang,n a ŋ,n a ŋ,unspecified,,Kanshouwa2026Saibol,nopage,maringsaibol
+maringsaibol005,no_stem,2.pl,nangni,nangni,nang+ni,n a ŋ n i,n a ŋ + n i,unspecified,,Kanshouwa2026Saibol,nopage,maringsaibol
+maringsaibol006,no_stem,3.sg,ama,ama,a+ma,a m a,a + m a,unspecified,,Kanshouwa2026Saibol,nopage,maringsaibol
+maringsaibol007,no_stem,3.pl,amani,amani,a+ma+ni,a m a n i,a + m a + n i,unspecified,,Kanshouwa2026Saibol,nopage,maringsaibol
+maringsaibol008,shi,1.sg.fut.aff,ka-shi-num-mang,ka-Σ-num-mang,ka+Σ+num+mang,k a Σ n u m m a ŋ,k a + Σ + n u m + m a ŋ,unspecified,morphophon,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol009,shi,1.sg.fut.aff,ka-shi-num-ang,ka-Σ-num-ang,ka+Σ+num+ang,k a Σ n u m a ŋ,k a + Σ + n u m + a ŋ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol010,shi,1.pl.excl.fut.aff,ka-shi-num-mang,ka-Σ-num-mang,ka+Σ+num+mang,k a Σ n u m m a ŋ,k a + Σ + n u m + m a ŋ,unspecified,morphophon,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol011,shi,1.pl.excl.fut.aff,ka-shi-num-ang,ka-Σ-num-ang,ka+Σ+num+ang,k a Σ n u m a ŋ,k a + Σ + n u m + a ŋ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol012,shi,1.pl.incl.fut.aff,ka-shi-num-min,ka-Σ-num-min,ka+Σ+num+min,k a Σ n u m m i n,k a + Σ + n u m + m i n,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol013,mu,1.sg.2.sg.fut.aff,ka-mu-num-mang,ka-Σ-num-mang,ka+Σ+num+mang,k a Σ n u m m a ŋ,k a + Σ + n u m + m a ŋ,unspecified,morphophon,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol014,mu,1.sg.2.sg.fut.aff,ka-mu-num-ang,ka-Σ-num-ang,ka+Σ+num+ang,k a Σ n u m a ŋ,k a + Σ + n u m + a ŋ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol015,mu,1.sg.2.pl.fut.aff,ka-mu-num-mang,ka-Σ-num-mang,ka+Σ+num+mang,k a Σ n u m m a ŋ,k a + Σ + n u m + m a ŋ,unspecified,morphophon,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol016,mu,1.sg.2.pl.fut.aff,ka-mu-num-ang,ka-Σ-num-ang,ka+Σ+num+ang,k a Σ n u m a ŋ,k a + Σ + n u m + a ŋ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol017,mu,1.pl.excl.2.sg.fut.aff,ka-mu-num-mang,ka-Σ-num-mang,ka+Σ+num+mang,k a Σ n u m m a ŋ,k a + Σ + n u m + m a ŋ,unspecified,morphophon,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol018,mu,1.pl.excl.2.sg.fut.aff,ka-mu-num-ang,ka-Σ-num-ang,ka+Σ+num+ang,k a Σ n u m a ŋ,k a + Σ + n u m + a ŋ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol019,mu,1.pl.excl.2.pl.fut.aff,ka-mu-num-mang,ka-Σ-num-mang,ka+Σ+num+mang,k a Σ n u m m a ŋ,k a + Σ + n u m + m a ŋ,unspecified,morphophon,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol020,mu,1.pl.excl.2.pl.fut.aff,ka-mu-num-ang,ka-Σ-num-ang,ka+Σ+num+ang,k a Σ n u m a ŋ,k a + Σ + n u m + a ŋ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol021,mu,1.sg.3.sg.fut.aff,ka-mu-num-mang,ka-Σ-num-mang,ka+Σ+num+mang,k a Σ n u m m a ŋ,k a + Σ + n u m + m a ŋ,unspecified,morphophon,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol022,mu,1.sg.3.sg.fut.aff,ka-mu-num-ang,ka-Σ-num-ang,ka+Σ+num+ang,k a Σ n u m a ŋ,k a + Σ + n u m + a ŋ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol023,mu,1.sg.3.pl.fut.aff,ka-mu-num-mang,ka-Σ-num-mang,ka+Σ+num+mang,k a Σ n u m m a ŋ,k a + Σ + n u m + m a ŋ,unspecified,morphophon,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol024,mu,1.sg.3.pl.fut.aff,ka-mu-num-ang,ka-Σ-num-ang,ka+Σ+num+ang,k a Σ n u m a ŋ,k a + Σ + n u m + a ŋ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol025,mu,1.pl.excl.3.sg.fut.aff,ka-mu-num-ang,ka-Σ-num-ang,ka+Σ+num+ang,k a Σ n u m a ŋ,k a + Σ + n u m + a ŋ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol026,mu,1.pl.incl.3.sg.fut.aff,ka-mu-num-min,ka-Σ-num-min,ka+Σ+num+min,k a Σ n u m m i n,k a + Σ + n u m + m i n,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol027,mu,1.pl.excl.3.pl.fut.aff,ka-mu-num-mang,ka-Σ-num-mang,ka+Σ+num+mang,k a Σ n u m m a ŋ,k a + Σ + n u m + m a ŋ,unspecified,morphophon,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol028,mu,1.pl.excl.3.pl.fut.aff,ka-mu-num-ang,ka-Σ-num-ang,ka+Σ+num+ang,k a Σ n u m a ŋ,k a + Σ + n u m + a ŋ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol029,mu,1.pl.incl.3.pl.fut.aff,ka-mu-num-min,ka-Σ-num-min,ka+Σ+num+min,k a Σ n u m m i n,k a + Σ + n u m + m i n,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol030,shi,2.pl.fut.aff,ka-shi-num-chau,ka-Σ-num-chau,ka+Σ+num+cha+u,k a Σ n u m tʃ a u,k a + Σ + n u m + tʃ a + u,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol031,mu,2.sg.1.sg.fut.aff,ka-mu-num-cha,ka-Σ-num-cha,ka+Σ+num+cha,k a Σ n u m tʃ a,k a + Σ + n u m + tʃ a,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol032,mu,2.sg.1.pl.excl.fut.aff,ka-mu-num-cha,ka-Σ-num-cha,ka+Σ+num+cha,k a Σ n u m tʃ a,k a + Σ + n u m + tʃ a,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol033,mu,2.pl.1.sg.fut.aff,ka-mu-num-chau,ka-Σ-num-chau,ka+Σ+num+cha+u,k a Σ n u m tʃ a u,k a + Σ + n u m + tʃ a + u,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol034,mu,2.pl.1.pl.excl.fut.aff,ka-mu-num-chau,ka-Σ-num-chau,ka+Σ+num+cha+u,k a Σ n u m tʃ a u,k a + Σ + n u m + tʃ a + u,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol035,mu,2.sg.3.sg.fut.aff,ka-mu-num-cha,ka-Σ-num-cha,ka+Σ+num+cha,k a Σ n u m tʃ a,k a + Σ + n u m + tʃ a,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol036,mu,2.sg.3.pl.fut.aff,ka-mu-num-cha,ka-Σ-num-cha,ka+Σ+num+cha,k a Σ n u m tʃ a,k a + Σ + n u m + tʃ a,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol037,mu,2.pl.3.sg.fut.aff,ka-mu-num-chau,ka-Σ-num-chau,ka+Σ+num+cha+u,k a Σ n u m tʃ a u,k a + Σ + n u m + tʃ a + u,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol038,mu,2.pl.3.pl.fut.aff,ka-mu-num-chau,ka-Σ-num-chau,ka+Σ+num+cha+u,k a Σ n u m tʃ a u,k a + Σ + n u m + tʃ a + u,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol039,shi,3.sg.fut.aff,ka-shi-num,ka-Σ-num,ka+Σ+num,k a Σ n u m,k a + Σ + n u m,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol040,shi,3.pl.fut.aff,ka-shi-num-ei,ka-Σ-num-ei,ka+Σ+num+ei,k a Σ n u m ei,k a + Σ + n u m + ei,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol041,mu,3.sg.1.sg.fut.aff,ka-mu-num,ka-Σ-num,ka+Σ+num,k a Σ n u m,k a + Σ + n u m,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol042,mu,3.sg.1.pl.excl.fut.aff,ka-mu-num,ka-Σ-num,ka+Σ+num,k a Σ n u m,k a + Σ + n u m,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol043,mu,3.sg.1.pl.incl.fut.aff,ka-mu-num,ka-Σ-num,ka+Σ+num,k a Σ n u m,k a + Σ + n u m,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol044,mu,3.pl.1.sg.fut.aff,ka-mu-num-mei,ka-Σ-num-mei,ka+Σ+num+mei,k a Σ n u m m ei,k a + Σ + n u m + m ei,unspecified,morphophon,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol045,mu,3.pl.1.sg.fut.aff,ka-mu-num-ei,ka-Σ-num-ei,ka+Σ+num+ei,k a Σ n u m ei,k a + Σ + n u m + ei,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol046,mu,3.pl.1.pl.excl.fut.aff,ka-mu-num-mei,ka-Σ-num-mei,ka+Σ+num+mei,k a Σ n u m m ei,k a + Σ + n u m + m ei,unspecified,morphophon,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol047,mu,3.pl.1.pl.excl.fut.aff,ka-mu-num-ei,ka-Σ-num-ei,ka+Σ+num+ei,k a Σ n u m ei,k a + Σ + n u m + ei,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol048,mu,3.pl.1.pl.incl.fut.aff,ka-mu-num-mei,ka-Σ-num-mei,ka+Σ+num+mei,k a Σ n u m m ei,k a + Σ + n u m + m ei,unspecified,morphophon,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol049,mu,3.pl.1.pl.incl.fut.aff,ka-mu-num-ei,ka-Σ-num-ei,ka+Σ+num+ei,k a Σ n u m ei,k a + Σ + n u m + ei,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol050,mu,3.sg.2.sg.fut.aff,ka-mu-num,ka-Σ-num,ka+Σ+num,k a Σ n u m,k a + Σ + n u m,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol051,mu,3.sg.2.pl.fut.aff,ka-mu-num,ka-Σ-num,ka+Σ+num,k a Σ n u m,k a + Σ + n u m,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol052,mu,3.pl.2.sg.fut.aff,ka-mu-num-mei,ka-Σ-num-mei,ka+Σ+num+mei,k a Σ n u m m ei,k a + Σ + n u m + m ei,unspecified,morphophon,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol053,mu,3.pl.2.sg.fut.aff,ka-mu-num-ei,ka-Σ-num-ei,ka+Σ+num+ei,k a Σ n u m ei,k a + Σ + n u m + ei,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol054,mu,3.pl.2.pl.fut.aff,ka-mu-num-mei,ka-Σ-num-mei,ka+Σ+num+mei,k a Σ n u m m ei,k a + Σ + n u m + m ei,unspecified,morphophon,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol055,mu,3.pl.2.pl.fut.aff,ka-mu-num-ei,ka-Σ-num-ei,ka+Σ+num+ei,k a Σ n u m ei,k a + Σ + n u m + ei,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol056,mu,3.sg.3.sg.fut.aff,ka-mu-num,ka-Σ-num,ka+Σ+num,k a Σ n u m,k a + Σ + n u m,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol057,mu,3.sg.3.pl.fut.aff,ka-mu-num,ka-Σ-num,ka+Σ+num,k a Σ n u m,k a + Σ + n u m,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol058,mu,3.pl.3.sg.fut.aff,ka-mu-num-mei,ka-Σ-num-mei,ka+Σ+num+mei,k a Σ n u m m ei,k a + Σ + n u m + m ei,unspecified,morphophon,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol059,mu,3.pl.3.sg.fut.aff,ka-mu-num-ei,ka-Σ-num-ei,ka+Σ+num+ei,k a Σ n u m ei,k a + Σ + n u m + ei,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol060,mu,3.pl.3.pl.fut.aff,ka-mu-num-mei,ka-Σ-num-mei,ka+Σ+num+mei,k a Σ n u m m ei,k a + Σ + n u m + m ei,unspecified,morphophon,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol061,mu,3.pl.3.pl.fut.aff,ka-mu-num-ei,ka-Σ-num-ei,ka+Σ+num+ei,k a Σ n u m ei,k a + Σ + n u m + ei,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol062,shi,1.sg.fut.neg,shi-mak-num-mang,Σ-mak-num-mang,Σ+mak+num+mang,Σ m a k n u m m a ŋ,Σ + m a k + n u m + m a ŋ,unspecified,morphophon,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol063,shi,1.sg.fut.neg,shi-mak-num-ang,Σ-mak-num-ang,Σ+mak+num+ang,Σ m a k n u m a ŋ,Σ + m a k + n u m + a ŋ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol064,shi,1.pl.excl.fut.neg,shi-mak-num-mang,Σ-mak-num-mang,Σ+mak+num+mang,Σ m a k n u m m a ŋ,Σ + m a k + n u m + m a ŋ,unspecified,morphophon,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol065,shi,1.pl.excl.fut.neg,shi-mak-num-ang,Σ-mak-num-ang,Σ+mak+num+ang,Σ m a k n u m a ŋ,Σ + m a k + n u m + a ŋ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol066,shi,1.pl.incl.fut.neg,shi-mak-num-min,Σ-mak-num-min,Σ+mak+num+min,Σ m a k n u m m i n,Σ + m a k + n u m + m i n,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol067,mu,1.sg.2.sg.fut.neg,mu-mak-num-mang,Σ-mak-num-mang,Σ+mak+num+mang,Σ m a k n u m m a ŋ,Σ + m a k + n u m + m a ŋ,unspecified,morphophon,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol068,mu,1.sg.2.sg.fut.neg,mu-mak-num-ang,Σ-mak-num-ang,Σ+mak+num+ang,Σ m a k n u m a ŋ,Σ + m a k + n u m + a ŋ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol069,mu,1.sg.2.pl.fut.neg,mu-mak-num-mang,Σ-mak-num-mang,Σ+mak+num+mang,Σ m a k n u m m a ŋ,Σ + m a k + n u m + m a ŋ,unspecified,morphophon,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol070,mu,1.sg.2.pl.fut.neg,mu-mak-num-ang,Σ-mak-num-ang,Σ+mak+num+ang,Σ m a k n u m a ŋ,Σ + m a k + n u m + a ŋ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol071,mu,1.sg.3.pl.fut.neg,mu-mak-num-mang,Σ-mak-num-mang,Σ+mak+num+mang,Σ m a k n u m m a ŋ,Σ + m a k + n u m + m a ŋ,unspecified,morphophon,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol072,mu,1.sg.3.pl.fut.neg,mu-mak-num-ang,Σ-mak-num-ang,Σ+mak+num+ang,Σ m a k n u m a ŋ,Σ + m a k + n u m + a ŋ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol073,mu,1.pl.excl.2.sg.fut.neg,mu-mak-num-mang,Σ-mak-num-mang,Σ+mak+num+mang,Σ m a k n u m m a ŋ,Σ + m a k + n u m + m a ŋ,unspecified,morphophon,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol074,mu,1.pl.excl.2.sg.fut.neg,mu-mak-num-ang,Σ-mak-num-ang,Σ+mak+num+ang,Σ m a k n u m a ŋ,Σ + m a k + n u m + a ŋ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol075,mu,1.pl.excl.2.pl.fut.neg,mu-mak-num-mang,Σ-mak-num-mang,Σ+mak+num+mang,Σ m a k n u m m a ŋ,Σ + m a k + n u m + m a ŋ,unspecified,morphophon,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol076,mu,1.pl.excl.2.pl.fut.neg,mu-mak-num-ang,Σ-mak-num-ang,Σ+mak+num+ang,Σ m a k n u m a ŋ,Σ + m a k + n u m + a ŋ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol077,mu,1.sg.3.sg.fut.neg,mu-mak-num-mang,Σ-mak-num-mang,Σ+mak+num+mang,Σ m a k n u m m a ŋ,Σ + m a k + n u m + m a ŋ,unspecified,morphophon,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol078,mu,1.sg.3.sg.fut.neg,mu-mak-num-ang,Σ-mak-num-ang,Σ+mak+num+ang,Σ m a k n u m a ŋ,Σ + m a k + n u m + a ŋ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol079,mu,1.pl.excl.3.sg.fut.neg,mu-mak-num-mang,Σ-mak-num-mang,Σ+mak+num+mang,Σ m a k n u m m a ŋ,Σ + m a k + n u m + m a ŋ,unspecified,morphophon,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol080,mu,1.pl.excl.3.sg.fut.neg,mu-mak-num-ang,Σ-mak-num-ang,Σ+mak+num+ang,Σ m a k n u m a ŋ,Σ + m a k + n u m + a ŋ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol081,mu,1.pl.incl.3.sg.fut.neg,mu-mak-num-min,Σ-mak-num-min,Σ+mak+num+min,Σ m a k n u m m i n,Σ + m a k + n u m + m i n,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol082,mu,1.pl.excl.3.pl.fut.neg,mu-mak-num-mang,Σ-mak-num-mang,Σ+mak+num+mang,Σ m a k n u m m a ŋ,Σ + m a k + n u m + m a ŋ,unspecified,morphophon,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol083,mu,1.pl.excl.3.pl.fut.neg,mu-mak-num-ang,Σ-mak-num-ang,Σ+mak+num+ang,Σ m a k n u m a ŋ,Σ + m a k + n u m + a ŋ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol084,mu,1.pl.incl.3.pl.fut.neg,mu-mak-num-min,Σ-mak-num-min,Σ+mak+num+min,Σ m a k n u m m i n,Σ + m a k + n u m + m i n,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol085,mu,2.sg.fut.neg,mu-mak-num-cha,Σ-mak-num-cha,Σ+mak+num+cha,Σ m a k n u m tʃ a,Σ + m a k + n u m + tʃ a,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol086,shi,2.pl.fut.neg,shi-mak-num-chau,Σ-mak-num-chau,Σ+mak+num+cha+u,Σ m a k n u m tʃ a u,Σ + m a k + n u m + tʃ a + u,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol087,mu,2.sg.1.sg.fut.neg,mu-mak-cha,Σ-mak-cha,Σ+mak+cha,Σ m a k tʃ a,Σ + m a k + tʃ a,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol088,mu,2.sg.1.pl.excl.fut.neg,mu-mak-num-cha,Σ-mak-num-cha,Σ+mak+num+cha,Σ m a k n u m tʃ a,Σ + m a k + n u m + tʃ a,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol089,mu,2.pl.1.sg.fut.neg,mu-mak-num-chau,Σ-mak-num-chau,Σ+mak+num+cha+u,Σ m a k n u m tʃ a u,Σ + m a k + n u m + tʃ a + u,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol090,mu,2.pl.1.pl.excl.fut.neg,mu-mak-num-chau,Σ-mak-num-chau,Σ+mak+num+cha+u,Σ m a k n u m tʃ a u,Σ + m a k + n u m + tʃ a + u,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol091,mu,2.sg.3.sg.fut.neg,mu-mak-num-cha,Σ-mak-num-cha,Σ+mak+num+cha,Σ m a k n u m tʃ a,Σ + m a k + n u m + tʃ a,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol092,mu,2.sg.3.pl.fut.neg,mu-mak-num-cha,Σ-mak-num-cha,Σ+mak+num+cha,Σ m a k n u m tʃ a,Σ + m a k + n u m + tʃ a,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol093,mu,2.pl.3.sg.fut.neg,mu-mak-num-chau,Σ-mak-num-chau,Σ+mak+num+cha+u,Σ m a k n u m tʃ a u,Σ + m a k + n u m + tʃ a + u,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol094,mu,2.pl.3.pl.fut.neg,mu-mak-num-chau,Σ-mak-num-chau,Σ+mak+num+cha+u,Σ m a k n u m tʃ a u,Σ + m a k + n u m + tʃ a + u,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol095,shi,3.sg.fut.neg,shi-mak-num,Σ-mak-num,Σ+mak+num,Σ m a k n u m,Σ + m a k + n u m,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol096,shi,3.pl.fut.neg,shi-mak-num-mei,Σ-mak-num-mei,Σ+mak+num+mei,Σ m a k n u m m ei,Σ + m a k + n u m + m ei,unspecified,morphophon,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol097,shi,3.pl.fut.neg,shi-mak-num-ei,Σ-mak-num-ei,Σ+mak+num+ei,Σ m a k n u m ei,Σ + m a k + n u m + ei,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol098,mu,3.sg.1.sg.fut.neg,mu-mak-num,Σ-mak-num,Σ+mak+num,Σ m a k n u m,Σ + m a k + n u m,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol099,mu,3.sg.1.pl.excl.fut.neg,mu-mak-num,Σ-mak-num,Σ+mak+num,Σ m a k n u m,Σ + m a k + n u m,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol100,mu,3.sg.1.pl.incl.fut.neg,mu-mak-num,Σ-mak-num,Σ+mak+num,Σ m a k n u m,Σ + m a k + n u m,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol101,mu,3.pl.1.sg.fut.neg,mu-mak-num-mei,Σ-mak-num-mei,Σ+mak+num+mei,Σ m a k n u m m ei,Σ + m a k + n u m + m ei,unspecified,morphophon,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol102,mu,3.pl.1.sg.fut.neg,mu-mak-num-ei,Σ-mak-num-ei,Σ+mak+num+ei,Σ m a k n u m ei,Σ + m a k + n u m + ei,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol103,mu,3.pl.1.pl.excl.fut.neg,mu-mak-num-mei,Σ-mak-num-mei,Σ+mak+num+mei,Σ m a k n u m m ei,Σ + m a k + n u m + m ei,unspecified,morphophon,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol104,mu,3.pl.1.pl.excl.fut.neg,mu-mak-num-ei,Σ-mak-num-ei,Σ+mak+num+ei,Σ m a k n u m ei,Σ + m a k + n u m + ei,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol105,mu,3.pl.1.pl.incl.fut.neg,mu-mak-num-mei,Σ-mak-num-mei,Σ+mak+num+mei,Σ m a k n u m m ei,Σ + m a k + n u m + m ei,unspecified,morphophon,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol106,mu,3.pl.1.pl.incl.fut.neg,mu-mak-num-ei,Σ-mak-num-ei,Σ+mak+num+ei,Σ m a k n u m ei,Σ + m a k + n u m + ei,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol107,mu,3.sg.2.sg.fut.neg,mu-mak-num,Σ-mak-num,Σ+mak+num,Σ m a k n u m,Σ + m a k + n u m,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol108,mu,3.sg.2.pl.fut.neg,mu-mak-num,Σ-mak-num,Σ+mak+num,Σ m a k n u m,Σ + m a k + n u m,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol109,mu,3.pl.2.sg.fut.neg,mu-mak-num-mei,Σ-mak-num-mei,Σ+mak+num+mei,Σ m a k n u m m ei,Σ + m a k + n u m + m ei,unspecified,morphophon,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol110,mu,3.pl.2.sg.fut.neg,mu-mak-num-ei,Σ-mak-num-ei,Σ+mak+num+ei,Σ m a k n u m ei,Σ + m a k + n u m + ei,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol111,mu,3.pl.2.pl.fut.neg,mu-mak-num-mei,Σ-mak-num-mei,Σ+mak+num+mei,Σ m a k n u m m ei,Σ + m a k + n u m + m ei,unspecified,morphophon,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol112,mu,3.pl.2.pl.fut.neg,mu-mak-num-ei,Σ-mak-num-ei,Σ+mak+num+ei,Σ m a k n u m ei,Σ + m a k + n u m + ei,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol113,mu,3.sg.3.sg.fut.neg,mu-mak-num,Σ-mak-num,Σ+mak+num,Σ m a k n u m,Σ + m a k + n u m,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol114,mu,3.sg.3.pl.fut.neg,mu-mak-num,Σ-mak-num,Σ+mak+num,Σ m a k n u m,Σ + m a k + n u m,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol115,mu,3.pl.3.sg.fut.neg,mu-mak-num-mei,Σ-mak-num-mei,Σ+mak+num+mei,Σ m a k n u m m ei,Σ + m a k + n u m + m ei,unspecified,morphophon,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol116,mu,3.pl.3.sg.fut.neg,mu-mak-num-ei,Σ-mak-num-ei,Σ+mak+num+ei,Σ m a k n u m ei,Σ + m a k + n u m + ei,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol117,mu,3.pl.3.pl.fut.neg,mu-mak-num-mei,Σ-mak-num-mei,Σ+mak+num+mei,Σ m a k n u m m ei,Σ + m a k + n u m + m ei,unspecified,morphophon,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol118,mu,3.pl.3.pl.fut.neg,mu-mak-num-ei,Σ-mak-num-ei,Σ+mak+num+ei,Σ m a k n u m ei,Σ + m a k + n u m + ei,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol119,shi,1.sg.nfut.aff,ka-shi-ang,ka-Σ-ang,ka+Σ+ang,k a Σ a ŋ,k a + Σ + a ŋ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol120,shi,1.pl.excl.nfut.aff,ka-shi-ang,ka-Σ-ang,ka+Σ+ang,k a Σ a ŋ,k a + Σ + a ŋ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol121,shi,1.pl.incl.nfut.aff,ka-shi-min,ka-Σ-min,ka+Σ+min,k a Σ m i n,k a + Σ + m i n,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol122,mu,1.sg.2.sg.nfut.aff,ka-mu-ang,ka-Σ-ang,ka+Σ+ang,k a Σ a ŋ,k a + Σ + a ŋ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol123,mu,1.sg.2.pl.nfut.aff,ka-mu-ang,ka-Σ-ang,ka+Σ+ang,k a Σ a ŋ,k a + Σ + a ŋ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol124,mu,1.pl.excl.2.sg.nfut.aff,ka-mu-ang,ka-Σ-ang,ka+Σ+ang,k a Σ a ŋ,k a + Σ + a ŋ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol125,mu,1.pl.excl.2.pl.nfut.aff,ka-mu-ang,ka-Σ-ang,ka+Σ+ang,k a Σ a ŋ,k a + Σ + a ŋ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol126,mu,1.sg.3.sg.nfut.aff,ka-mu-ang,ka-Σ-ang,ka+Σ+ang,k a Σ a ŋ,k a + Σ + a ŋ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol127,mu,1.sg.3.pl.nfut.aff,ka-mu-ang,ka-Σ-ang,ka+Σ+ang,k a Σ a ŋ,k a + Σ + a ŋ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol128,mu,1.pl.excl.3.sg.nfut.aff,ka-mu-ang,ka-Σ-ang,ka+Σ+ang,k a Σ a ŋ,k a + Σ + a ŋ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol129,mu,1.pl.incl.3.sg.nfut.aff,ka-mu-min,ka-Σ-min,ka+Σ+min,k a Σ m i n,k a + Σ + m i n,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol130,mu,1.pl.excl.3.pl.nfut.aff,ka-mu-ang,ka-Σ-ang,ka+Σ+ang,k a Σ a ŋ,k a + Σ + a ŋ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol131,mu,1.pl.incl.3.pl.nfut.aff,ka-mu-min,ka-Σ-min,ka+Σ+min,k a Σ m i n,k a + Σ + m i n,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol132,mu,2.sg.nfut.aff,ka-mu-cha,ka-Σ-cha,ka+Σ+cha,k a Σ tʃ a,k a + Σ + tʃ a,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol133,shi,2.pl.nfut.aff,ka-shi-chau,ka-Σ-chau,ka+Σ+cha+u,k a Σ tʃ a u,k a + Σ + tʃ a + u,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol134,mu,2.sg.1.sg.nfut.aff,ka-mu-cha,ka-Σ-cha,ka+Σ+cha,k a Σ tʃ a,k a + Σ + tʃ a,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol135,mu,2.sg.1.pl.excl.nfut.aff,ka-mu-cha,ka-Σ-cha,ka+Σ+cha,k a Σ tʃ a,k a + Σ + tʃ a,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol136,mu,2.pl.1.sg.nfut.aff,ka-mu-chau,ka-Σ-chau,ka+Σ+cha+u,k a Σ tʃ a u,k a + Σ + tʃ a + u,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol137,mu,2.pl.1.pl.excl.nfut.aff,ka-mu-chau,ka-Σ-chau,ka+Σ+cha+u,k a Σ tʃ a u,k a + Σ + tʃ a + u,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol138,mu,2.sg.3.sg.nfut.aff,ka-mu-cha,ka-Σ-cha,ka+Σ+cha,k a Σ tʃ a,k a + Σ + tʃ a,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol139,mu,2.sg.3.pl.nfut.aff,ka-mu-cha,ka-Σ-cha,ka+Σ+cha,k a Σ tʃ a,k a + Σ + tʃ a,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol140,mu,2.pl.3.sg.nfut.aff,ka-mu-chau,ka-Σ-chau,ka+Σ+cha+u,k a Σ tʃ a u,k a + Σ + tʃ a + u,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol141,mu,2.pl.3.pl.nfut.aff,ka-mu-chau,ka-Σ-chau,ka+Σ+cha+u,k a Σ tʃ a u,k a + Σ + tʃ a + u,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol142,shi,3.sg.nfut.aff,ka-shi,ka-Σ,ka+Σ,k a Σ,k a + Σ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol143,shi,3.pl.nfut.aff,ka-shi-ei,ka-Σ-ei,ka+Σ+ei,k a Σ ei,k a + Σ + ei,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol144,mu,3.sg.1.sg.nfut.aff,ka-mu,ka-Σ,ka+Σ,k a Σ,k a + Σ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol145,mu,3.sg.1.pl.excl.nfut.aff,ka-mu,ka-Σ,ka+Σ,k a Σ,k a + Σ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol146,mu,3.sg.1.pl.incl.nfut.aff,ka-mu,ka-Σ,ka+Σ,k a Σ,k a + Σ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol147,mu,3.pl.1.sg.nfut.aff,ka-mu-ei,ka-Σ-ei,ka+Σ+ei,k a Σ ei,k a + Σ + ei,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol148,mu,3.pl.1.pl.excl.nfut.aff,ka-mu-ei,ka-Σ-ei,ka+Σ+ei,k a Σ ei,k a + Σ + ei,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol149,mu,3.pl.1.pl.incl.nfut.aff,ka-mu-ei,ka-Σ-ei,ka+Σ+ei,k a Σ ei,k a + Σ + ei,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol150,mu,3.sg.2.sg.nfut.aff,ka-mu-num,ka-Σ-num,ka+Σ+num,k a Σ n u m,k a + Σ + n u m,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol151,mu,3.sg.2.pl.nfut.aff,ka-mu,ka-Σ,ka+Σ,k a Σ,k a + Σ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol152,mu,3.pl.2.sg.nfut.aff,ka-mu-ei,ka-Σ-ei,ka+Σ+ei,k a Σ ei,k a + Σ + ei,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol153,mu,3.pl.2.pl.nfut.aff,ka-mu-ei,ka-Σ-ei,ka+Σ+ei,k a Σ ei,k a + Σ + ei,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol154,mu,3.sg.3.sg.nfut.aff,ka-mu,ka-Σ,ka+Σ,k a Σ,k a + Σ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol155,mu,3.sg.3.pl.nfut.aff,ka-mu,ka-Σ,ka+Σ,k a Σ,k a + Σ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol156,mu,3.pl.3.sg.nfut.aff,ka-mu-ei,ka-Σ-ei,ka+Σ+ei,k a Σ ei,k a + Σ + ei,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol157,mu,3.pl.3.pl.nfut.aff,ka-mu-ei,ka-Σ-ei,ka+Σ+ei,k a Σ ei,k a + Σ + ei,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol158,shi,1.sg.nfut.neg,shi-mak-ang,Σ-mak-ang,Σ+mak+ang,Σ m a k a ŋ,Σ + m a k + a ŋ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol159,shi,1.pl.excl.nfut.neg,shi-mak-ang,Σ-mak-ang,Σ+mak+ang,Σ m a k a ŋ,Σ + m a k + a ŋ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol160,shi,1.pl.incl.nfut.neg,shi-mak-min,Σ-mak-min,Σ+mak+min,Σ m a k m i n,Σ + m a k + m i n,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol161,mu,1.sg.2.sg.nfut.neg,mu-mak-ang,Σ-mak-ang,Σ+mak+ang,Σ m a k a ŋ,Σ + m a k + a ŋ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol162,mu,1.sg.2.pl.nfut.neg,mu-mak-ang,Σ-mak-ang,Σ+mak+ang,Σ m a k a ŋ,Σ + m a k + a ŋ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol163,mu,1.pl.excl.2.sg.nfut.neg,mu-mak-ang,Σ-mak-ang,Σ+mak+ang,Σ m a k a ŋ,Σ + m a k + a ŋ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol164,mu,1.pl.excl.2.pl.nfut.neg,mu-mak-ang,Σ-mak-ang,Σ+mak+ang,Σ m a k a ŋ,Σ + m a k + a ŋ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol165,mu,1.sg.3.sg.nfut.neg,mu-mak-ang,Σ-mak-ang,Σ+mak+ang,Σ m a k a ŋ,Σ + m a k + a ŋ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol166,mu,1.sg.3.pl.nfut.neg,mu-mak-ang,Σ-mak-ang,Σ+mak+ang,Σ m a k a ŋ,Σ + m a k + a ŋ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol167,mu,1.pl.excl.3.sg.nfut.neg,mu-mak-ang,Σ-mak-ang,Σ+mak+ang,Σ m a k a ŋ,Σ + m a k + a ŋ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol168,mu,1.pl.incl.3.sg.nfut.neg,mu-mak-min,Σ-mak-min,Σ+mak+min,Σ m a k m i n,Σ + m a k + m i n,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol169,mu,1.pl.excl.3.pl.nfut.neg,mu-mak-ang,Σ-mak-ang,Σ+mak+ang,Σ m a k a ŋ,Σ + m a k + a ŋ,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol170,mu,1.pl.incl.3.pl.nfut.neg,mu-mak-min,Σ-mak-min,Σ+mak+min,Σ m a k m i n,Σ + m a k + m i n,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol171,mu,2.sg.nfut.neg,mu-mak-cha,Σ-mak-cha,Σ+mak+cha,Σ m a k tʃ a,Σ + m a k + tʃ a,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol172,shi,2.pl.nfut.neg,shi-mak-chau,Σ-mak-chau,Σ+mak+cha+u,Σ m a k tʃ a u,Σ + m a k + tʃ a + u,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol173,mu,2.sg.1.sg.nfut.neg,mu-mak-cha,Σ-mak-cha,Σ+mak+cha,Σ m a k tʃ a,Σ + m a k + tʃ a,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol174,mu,2.sg.1.pl.excl.nfut.neg,mu-mak-cha,Σ-mak-cha,Σ+mak+cha,Σ m a k tʃ a,Σ + m a k + tʃ a,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol175,mu,2.pl.1.sg.nfut.neg,mu-mak-chau,Σ-mak-chau,Σ+mak+cha+u,Σ m a k tʃ a u,Σ + m a k + tʃ a + u,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol176,mu,2.pl.1.pl.excl.nfut.neg,mu-mak-chau,Σ-mak-chau,Σ+mak+cha+u,Σ m a k tʃ a u,Σ + m a k + tʃ a + u,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol177,mu,2.sg.3.sg.nfut.neg,mu-mak-cha,Σ-mak-cha,Σ+mak+cha,Σ m a k tʃ a,Σ + m a k + tʃ a,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol178,mu,2.sg.3.pl.nfut.neg,mu-mak-cha,Σ-mak-cha,Σ+mak+cha,Σ m a k tʃ a,Σ + m a k + tʃ a,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol179,mu,2.pl.3.sg.nfut.neg,mu-mak-chau,Σ-mak-chau,Σ+mak+cha+u,Σ m a k tʃ a u,Σ + m a k + tʃ a + u,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol180,mu,2.pl.3.pl.nfut.neg,mu-mak-chau,Σ-mak-chau,Σ+mak+cha+u,Σ m a k tʃ a u,Σ + m a k + tʃ a + u,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol181,shi,3.sg.nfut.neg,shi-mak,Σ-mak,Σ+mak,Σ m a k,Σ + m a k,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol182,shi,3.pl.nfut.neg,shi-mak-ei,Σ-mak-ei,Σ+mak+ei,Σ m a k ei,Σ + m a k + ei,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol183,mu,3.sg.1.sg.nfut.neg,mu-mak,Σ-mak,Σ+mak,Σ m a k,Σ + m a k,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol184,mu,3.sg.1.pl.excl.nfut.neg,mu-mak,Σ-mak,Σ+mak,Σ m a k,Σ + m a k,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol185,mu,3.sg.1.pl.incl.nfut.neg,mu-mak,Σ-mak,Σ+mak,Σ m a k,Σ + m a k,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol186,mu,3.pl.1.sg.nfut.neg,mu-mak-ei,Σ-mak-ei,Σ+mak+ei,Σ m a k ei,Σ + m a k + ei,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol187,mu,3.pl.1.pl.excl.nfut.neg,mu-mak-ei,Σ-mak-ei,Σ+mak+ei,Σ m a k ei,Σ + m a k + ei,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol188,mu,3.pl.1.pl.incl.nfut.neg,mu-mak-ei,Σ-mak-ei,Σ+mak+ei,Σ m a k ei,Σ + m a k + ei,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol189,mu,3.sg.2.sg.nfut.neg,mu-mak,Σ-mak,Σ+mak,Σ m a k,Σ + m a k,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol190,mu,3.sg.2.pl.nfut.neg,mu-mak,Σ-mak,Σ+mak,Σ m a k,Σ + m a k,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol191,mu,3.pl.2.sg.nfut.neg,mu-mak-ei,Σ-mak-ei,Σ+mak+ei,Σ m a k ei,Σ + m a k + ei,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol192,mu,3.pl.2.pl.nfut.neg,mu-mak-ei,Σ-mak-ei,Σ+mak+ei,Σ m a k ei,Σ + m a k + ei,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol193,mu,3.sg.3.sg.nfut.neg,mu-mak,Σ-mak,Σ+mak,Σ m a k,Σ + m a k,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol194,mu,3.sg.3.pl.nfut.neg,mu-mak,Σ-mak,Σ+mak,Σ m a k,Σ + m a k,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol195,mu,3.pl.3.sg.nfut.neg,mu-mak-ei,Σ-mak-ei,Σ+mak+ei,Σ m a k ei,Σ + m a k + ei,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol
+maringsaibol196,mu,3.pl.3.pl.nfut.neg,mu-mak-ei,Σ-mak-ei,Σ+mak+ei,Σ m a k ei,Σ + m a k + ei,unspecified,,Kanshouwa2026SaibolMaring,nopage,maringsaibol

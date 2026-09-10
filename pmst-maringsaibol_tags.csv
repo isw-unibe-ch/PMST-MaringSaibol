@@ -1,0 +1,3 @@
+tag_id,tag_column_name,comment,language_id
+morphophon,analysis_tag,form exhibits morphophonological process(es) such as assimilation or fusion,maringsaibol
+unspecified,variants_tag,form is not used in special contexts,maringsaibol
