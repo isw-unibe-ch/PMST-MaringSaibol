@@ -18,18 +18,16 @@ For more details about the data, please consult the data\_sheet.md in the docs f
 * Tone: The language has tones, but it is not marked in the source form as tonal analysis is still pending.
 * Mapping between database paradigm labels and Saibol descriptive labels:
 
-* Database label = Language-specific descriptive label
+	* Database label = Language-specific descriptive label
 	* fut.aff = future affirmative
 	* fut.neg = future negative
 	* nfut.aff = simple (present) aspect
 	* nfut.neg = simple (present) negative
 
-* Transcription: Some \[a] are pronounced as \[ə] (schwa). However, in this data set both the vowels are phonemically represented by \[a]. 
-* Variation in the data set:
+* Transcription: Some \[a] are pronounced as \[ə] (schwa). However, in this data set both vowels are phonemically represented by \[a]. 
+* Variation in the data set: There is morphophonological variation involving the coda of the future marker *num* with the person markers for 1SG, 1PLE, and 3PL. For example:
 
-a) There is morphophonological variation involving the coda of the future marker *num* with the person markers for 1SG, 1PLE, and 3PL.
-
-e.g: 	1PLE.FA
+	1PLE.FA
 
 	ka-shi-num-ang	(unspecified)
 
