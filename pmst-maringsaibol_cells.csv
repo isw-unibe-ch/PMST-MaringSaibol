@@ -94,6 +94,7 @@ cell_id,POS,label,language_id
 2.sg.3.sg.fut.neg,verb,2SG>3SG.FUT.NEG,maringsaibol
 2.sg.3.sg.nfut.aff,verb,2SG>3SG.NFUT.AFF,maringsaibol
 2.sg.3.sg.nfut.neg,verb,2SG>3SG.NFUT.NEG,maringsaibol
+2.sg.fut.aff,verb,2SG.FUT.AFF,maringsaibol
 2.sg.fut.neg,verb,2SG.FUT.NEG,maringsaibol
 2.sg.nfut.aff,verb,2SG.NFUT.AFF,maringsaibol
 2.sg.nfut.neg,verb,2SG.NFUT.NEG,maringsaibol

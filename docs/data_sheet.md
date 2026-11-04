@@ -35,16 +35,16 @@ For Saibol, it is a version of the community orthography used by speakers.
 
 **How many instances are there in total?**
 
-* Number of inflected forms: 197
-* Number of unique inflected forms: 37
-* Number of unique scenarios (person, number, TAM, polarity combinations): 162
+* Number of inflected forms: 198
+* Number of unique inflected forms: 35
+* Number of unique scenarios (person, number, TAM, polarity combinations): 163
 * Number of inflected forms per paradigm and subparadigm:
 
 |paradigm |variants_tag |analysis_tag |  n|
 |:--------|:------------|:------------|--:|
 |pron     |unspecified  |             |  7|
-|fut.aff  |unspecified  |morphophon   | 16|
-|fut.aff  |unspecified  |             | 38|
+|fut.aff  |unspecified  |morphophon   | 17|
+|fut.aff  |unspecified  |             | 39|
 |fut.neg  |unspecified  |morphophon   | 18|
 |fut.neg  |unspecified  |             | 39|
 |nfut.aff |unspecified  |             | 39|
