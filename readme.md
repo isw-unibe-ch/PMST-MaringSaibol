@@ -25,37 +25,37 @@ For more details about the data, please consult the data\_sheet.md in the docs f
 	* nfut.neg = simple (present) negative
 
 * Transcription: Some \[a] are pronounced as \[ə] (schwa). However, in this data set both vowels are phonemically represented by \[a]. 
-* Variation in the data set: There is morphophonological variation involving the coda of the future marker *num* with the person markers for 1SG, 1PLE, and 3PL. For example:
+* Variation in the data set: There is morphophonological variation in the person markers for 1SG, 1PLE, and 3PL when they appear after the future marker *num*: in hyperarticulated speech, the coda of the future marker is copied to the onset of the person marker. For example:
 
 	1PLE.FA
 
-	ka-shi-num-ang	(unspecified)
+	_ka-shi-num-ang_	(unspecified)
 
-	ka-shi-num-mang	(morphophon)
+	_ka-shi-num-mang_	(morphophon)
 
 
 
 	1PLE.FN
 
-	shi-mak-num-ang	(unspecified)
+	_shi-mak-num-ang_	(unspecified)
 
-	shi-num-mang	(morphophon)
+	_shi-num-mang_	(morphophon)
 
 
 
 	3PL.FA
 
-	ka-shi-num-ei	(unspecified)
+	_ka-shi-num-ei_	(unspecified)
 
-	ka-shi-num-mei	(morphophon)
+	_ka-shi-num-mei_	(morphophon)
 
 
 
 	3PL.FN
 
-	shi-mak-num-ei	(unspecified)
+	_shi-mak-num-ei_	(unspecified)
 
-	shi-mak-num-mei	(morphophon)
+	_shi-mak-num-mei_	(morphophon)
 
 
 
